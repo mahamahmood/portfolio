@@ -3,13 +3,11 @@
 one:
   title: MyString
   description: MyString
-  repo_backend: MyString
-  repo_frontend: MyString
+  repo: MyString
   live_site: MyString
 
 two:
   title: MyString
   description: MyString
-  repo_backend: MyString
-  repo_frontend: MyString
+  repo: MyString
   live_site: MyString
