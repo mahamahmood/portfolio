@@ -8,16 +8,16 @@
 
 Protfolio.create([
     {
-        "title": "Tic Tac Toe",
-        "description": "A player vs. player game built using HTML5, CSS, Javascript, and JQuery",
-        "repo": "https://github.com/mahamahmood/tic-tac-toe",
-        "live_site": "https://tic-tac-toe-git-master.mahamahmood.vercel.app/"
-    },
-    {
         "title": "Sumer Market",
         "description": "A Full-stack online grocery app built using Node.js, Express, Bootstrap, HTML5, and CSS",
         "repo": "https://github.com/mahamahmood/sumer-market",
         "live_site": "https://sumer-market.herokuapp.com/"
+    },
+    {
+        "title": "Donations App",
+        "description": "This app was created in less than 10 hours using Ruby on Rails for the backend, Postgres for DB, and React for the frontend. The main reason for the app is to provide users with the ability to create a list of items they want to donate. In the future, I would like to make it full CRUD and give users the ability to get donated items from other users.",
+        "repo": "https://github.com/mahamahmood/donations_app_client",
+        "live_site": "https://donations-app-client.herokuapp.com/"
     },
     {
         "title": "Teky App",
@@ -26,10 +26,10 @@ Protfolio.create([
         "live_site": "https://techjournalclient.herokuapp.com/"
     },
     {
-        "title": "Donations App",
-        "description": "This app was created in less than 10 hours using Ruby on Rails for the backend, Postgres for DB, and React for the frontend. The main reason for the app is to provide users with the ability to create a list of items they want to donate. In the future, I would like to make it full CRUD and give users the ability to get donated items from other users.",
-        "repo": "https://github.com/mahamahmood/donations_app_client",
-        "live_site": "https://donations-app-client.herokuapp.com/"
+        "title": "Tic Tac Toe",
+        "description": "A player vs. player game built using HTML5, CSS, Javascript, and JQuery",
+        "repo": "https://github.com/mahamahmood/tic-tac-toe",
+        "live_site": "https://tic-tac-toe-git-master.mahamahmood.vercel.app/"
     },
     {
         "title": "Courses For Her",
