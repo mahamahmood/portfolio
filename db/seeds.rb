@@ -36,5 +36,11 @@ Protfolio.create([
         "description": "This app was created using Ruby on Rails for the backend, Postgres for DB, and React for the frontend. I've created this app provide access to online learning to women around the world.",
         "repo": "https://github.com/mahamahmood/courses_for_her_api",
         "live_site": ""
+    },
+    {
+        "title": "Email Marketing Template",
+        "description": "An email template built with HTML and CSS to feature recipes from the Sumer Market App",
+        "repo": "https://github.com/mahamahmood/email-template-sumer-market",
+        "live_site": "https://email-template-sumer-market.vercel.app/"
     }
 ]);
