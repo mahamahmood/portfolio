@@ -35,12 +35,24 @@ Protfolio.create([
         "title": "Courses For Her",
         "description": "This app was created using Ruby on Rails for the backend, Postgres for DB, and React for the frontend. I've created this app provide access to online learning to women around the world.",
         "repo": "https://github.com/mahamahmood/courses_for_her_api",
-        "live_site": ""
+        "live_site": "https://github.com/mahamahmood/courses_for_her_client"
     },
     {
         "title": "Email Marketing Template",
         "description": "An email template built with HTML and CSS to feature recipes from the Sumer Market App",
         "repo": "https://github.com/mahamahmood/email-template-sumer-market",
         "live_site": "https://email-template-sumer-market.vercel.app/"
+    },
+    {
+        "title": "Email Marketing Template - Apperal Theme",
+        "description": "A responsive HTML template with HTML tables and CSS",
+        "repo": "https://github.com/mahamahmood/email-template-apparel",
+        "live_site": "https://email-template-apparel.vercel.app/"
+    },
+    {
+        "title": "NextStep",
+        "description": "A job board app built using GitHub Jobs API. Used Traversy Media Video to learn how to integrate an API and include a search, filter, and pagination.",
+        "repo": "https://github.com/mahamahmood/NextStep",
+        "live_site": "https://next-step-nine.vercel.app/"
     }
 ]);
